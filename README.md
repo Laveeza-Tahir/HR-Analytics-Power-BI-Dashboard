@@ -5,7 +5,7 @@
 3.	Elevate the Overall Employee Experience
 4.	Increase Workforce Productivity
 5.	Build and Strengthen Employee Trust in the Organization<br>
-##Dashboard Details:<br>
+##Dashboard Details:  return
 ###Overall HR Statistics:<br>
 •	Total Employees: Displays the total number of employees in the organization.
 •	Attrition Rate: Shows the percentage of employees leaving the company.
