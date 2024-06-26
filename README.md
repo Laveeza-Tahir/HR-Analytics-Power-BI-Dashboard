@@ -4,9 +4,9 @@ Project Objectives:<br>
 2.	Enhance the Efficiency and Effectiveness of the Hiring Process
 3.	Elevate the Overall Employee Experience
 4.	Increase Workforce Productivity
-5.	Build and Strengthen Employee Trust in the Organization
+5.	Build and Strengthen Employee Trust in the Organization<br>
 <br>Dashboard Details:  <br> Here is a detailed description of the HR Analytics dashboard, broken down into points:
-<br>Overall HR Statistics:<br>
+<br><br>Overall HR Statistics:<br>
 * Total Employees:<br>
   Displays the total number of employees in the organization.<br>
 * Attrition Rate:
@@ -27,5 +27,6 @@ Project Objectives:<br>
    This section categorizes the number of employees who have left the company by their tenure at the company.
 * Attrition by Salary Slab:<br>
   This section categorizes the number of employees who have left the company by their salary range.
-<br>This HR Analytics Dashboard is designed to provide comprehensive insights into various aspects of the workforce, enabling data-driven decisions to improve employee retention, streamline the hiring process, enhance employee experience, and ultimately build a more productive and trusting work environment.
+
+<br><br>This HR Analytics Dashboard is designed to provide comprehensive insights into various aspects of the workforce, enabling data-driven decisions to improve employee retention, streamline the hiring process, enhance employee experience, and ultimately build a more productive and trusting work environment.
 
