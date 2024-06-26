@@ -9,13 +9,13 @@ Project Objectives:<br>
 <br><br>Overall HR Statistics:<br>
 * Total Employees:<br>
   Displays the total number of employees in the organization.<br>
-* Attrition Rate:
+* Attrition Rate:<br>
   Shows the percentage of employees leaving the company.<br>
-* Average Age:
+* Average Age:<br>
   Indicates the average age of the employees.<br>
-* Average Salary:
+* Average Salary:<br>
   Displays the average salary of the employees.<br>
-* Average Years at Company:
+* Average Years at Company:<br>
   Shows the average tenure of employees within the company.<br>
 * Attrition by Age:<br>
   This section presents the number of employees who have left the company, broken down by age range and gender.<br>
@@ -27,6 +27,5 @@ Project Objectives:<br>
    This section categorizes the number of employees who have left the company by their tenure at the company.
 * Attrition by Salary Slab:<br>
   This section categorizes the number of employees who have left the company by their salary range.
-
 <br><br>This HR Analytics Dashboard is designed to provide comprehensive insights into various aspects of the workforce, enabling data-driven decisions to improve employee retention, streamline the hiring process, enhance employee experience, and ultimately build a more productive and trusting work environment.
 
