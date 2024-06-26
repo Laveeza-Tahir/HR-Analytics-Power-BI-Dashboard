@@ -5,7 +5,7 @@ Project Objectives:<br>
 3.	Elevate the Overall Employee Experience
 4.	Increase Workforce Productivity
 5.	Build and Strengthen Employee Trust in the Organization<br>
-<br>Dashboard Details:  <br> Here is a detailed description of the HR Analytics dashboard, broken down into points:
+##<br>Dashboard Details:  <br> Here is a detailed description of the HR Analytics dashboard, broken down into points:
 <br><br>Overall HR Statistics:<br>
 * Total Employees:<br>
   Displays the total number of employees in the organization.<br>
