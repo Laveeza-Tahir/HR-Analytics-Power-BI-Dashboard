@@ -22,12 +22,9 @@
 
 ### Attrition by Job Role:
 - This section categorizes the number of employees who have left the company by their job titles.
-  - **Research Scientist:** Job role with the highest number of employees who left.
-  - **Sales Representative:** Job role with the second highest number of employees who left.
 
 ### Attrition by Education Level:
 - This section categorizes the number of employees who have left the company by their educational background.
-  - **Life Sciences:** Educational background with the highest number of employees who left.
 
 ### Attrition by Years at Company:
 - This section categorizes the number of employees who have left the company by their tenure at the company.
